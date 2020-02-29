@@ -2,7 +2,7 @@
 /**
  * Write a description of class PracticeDraw here.
  * 
- * @author (your name) 
+ * @author Minji Ahn
  * @version (a version number or a date)
  */
 public class PracticeDraw
